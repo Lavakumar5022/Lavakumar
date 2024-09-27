@@ -1,4 +1,3 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://theninehertz.com/wp-content/uploads/2020/08/Python-Allows-Multi-tasking.gif))]
 <h1 align="center">Hi 👋, I'm Lavakumar</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 
