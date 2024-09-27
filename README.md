@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Devops,Pyspark**
 
-- 💬 Ask me about **Python, Flask, Django, SQL,Git,Selenium**
+- 💬 Ask me about **Python, Flask, Django, SQL, Git, Selenium**
 
 - 📫 How to reach me **errylavakumar@gmail.com**
 
@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/lavakumar e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavakumar e" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/lavakumar e](https://www.linkedin.com/in/lavakumar-e-5832381bb/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lavakumar e" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lavakumar5022&show_icons=true&locale=en&layout=compact" alt="lavakumar5022" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lavakumar5022&show_icons=true&locale=en" alt="lavakumar5022" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lavakumar5022&show_icons=true&locale=en" alt="lavakumar5022" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lavakumar5022&" alt="lavakumar5022" /></p>
